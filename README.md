@@ -1,13 +1,25 @@
 # foochow-idioms-data
 
+本倉庫公開展示，旨在便利學術研究、語料整理、社群協作與版本追蹤。公開展示不代表本倉庫內的文本、標註、音頻、元資料或其他材料已被授予自由取用、複製、再散布、改作、商業使用、模型訓練、資料庫整合或其他二次利用之權利。
+
+除非另有明確書面授權，任何個人或機構如欲將本倉庫之資料用於自己的項目、產品、研究資料集、語言資源、輸入法、詞典、語音技術、機器學習 / AI 訓練、公開發布內容或其他衍生作品，均須事先與藍尾星小組聯絡並取得許可。
+
+請勿將本倉庫的公開狀態理解爲「可任意取用」或「放棄權利」。未經許可使用、搬運、重發布、改編或整合本倉庫資料者，我們保留追究其責任及要求停止使用、刪除資料、補正署名或作出其他處理之權利。
+
+This repository is publicly accessible for research, corpus maintenance, community collaboration, and version tracking. Public access does not mean that the texts, annotations, audio files, metadata, or other materials in this repository are freely licensed for copying, redistribution, modification, commercial use, model training, dataset integration, or other forms of reuse.
+
+Unless explicitly authorized in writing, any individual or organization wishing to use materials from this repository in their own project, product, research dataset, language resource, input method, dictionary, speech technology, machine-learning / AI training pipeline, public release, or other derivative work must contact Nang-muoi-sing and obtain permission in advance.
+
+Do not interpret the public availability of this repository as permission for unrestricted use. Nang-muoi-sing reserves the right to request cessation of use, removal of copied materials, correction of attribution, or other appropriate remedies for unauthorized use.
+
 ## 闽东
 
-### [Other idioms](https://github.com/MindongLab/foochow-idioms-data/blob/master/other%20idioms.tsv)
+### [Other idioms](https://github.com/Nang-muoi-sing/foochow-idioms-data/blob/master/other%20idioms.tsv)
 See individual details behind the idioms.
 
 ## 福州十邑
 
-### [福州方言熟语歌谣](https://github.com/MindongLab/foochow-idioms-data/tree/master/福州方言熟语歌谣)
+### [福州方言熟语歌谣](https://github.com/Nang-muoi-sing/foochow-idioms-data/tree/master/福州方言熟语歌谣)
 - Digitalization: [Radium Zheng](https://github.com/ztl8702)
 - Sound: 
 - Recording: Radium Zheng
@@ -15,7 +27,7 @@ See individual details behind the idioms.
 ### 谚, 熟, 俗, 歇 and 谣 in [福州方言词典](https://github.com/ztl8702/zingzeu-data/blob/master/li.txt)
 - Editor: 李如龙, 梁玉璋, 邹光椿, 陈泽平, etc
 
-### [福州語](https://github.com/MindongLab/foochow-idioms-data/blob/master/福州語.tsv)
+### [福州語](https://github.com/Nang-muoi-sing/foochow-idioms-data/blob/master/福州語.tsv)
 - Editor: 王建華, 林月仙, 林惠萍, 張秀玲, 陳秀玲, 陳蕙蓉, 劉玉金, 鄭秀芸, etc
 
 ### 宝禅百首福州民谣
@@ -43,16 +55,16 @@ See individual details behind the idioms.
 
 ## 鼓楼
 
-### [中国谚语集成福建卷・福州市鼓楼区分卷](https://github.com/MindongLab/foochow-idioms-data/blob/master/中国谚语集成福建卷・福州市鼓楼区分卷/content.csv)
+### [中国谚语集成福建卷・福州市鼓楼区分卷](https://github.com/Nang-muoi-sing/foochow-idioms-data/blob/master/中国谚语集成福建卷・福州市鼓楼区分卷/content.csv)
 - Publisher: 福州鼓楼区民间文学三集成编委会
 - Editor-in-chief: 邱顺生
 - Sub-editor: 郑郁
 - Editor: 林行, 郑丽生, 郭毓麟, 王铁藩, 周简, 郑孝禄, 官桂铨
-- [Collector](https://github.com/MindongLab/foochow-idioms-data/blob/master/中国谚语集成福建卷・福州市鼓楼区分卷/collector.csv)
+- [Collector](https://github.com/Nang-muoi-sing/foochow-idioms-data/blob/master/中国谚语集成福建卷・福州市鼓楼区分卷/collector.csv)
 - Date: 1989-03-20
 - Digitalization: [子善](https://github.com/DDFShanyu) (pp.1-8), Loser & Humberger (pp.9-16), 溯朔 (pp.18-28), 圈圈圆圆圈圈 (pp.29-32, 40-46), 缪若佳 (pp.33-40, 145-148), 简兮 (pp. 48-58), 陈毓灵 (pp. 60-70), LinSQ@QQ (pp.71-79, 136-138), 肥羊在心里 (pp.81-91, 103-123, 140-141), 海水江崖 (pp.92-102), 陈雨芬 (pp. 125-135), [关彳山](https://github.com/Guanchishan) (pp.142-144, 149-150, 152-155)
 
-### [中国歌谣集成福建卷・福州市鼓楼区分卷](https://github.com/MindongLab/foochow-idioms-data/blob/master/中国歌谣集成福建卷・福州市鼓楼区分卷/content.tsv)
+### [中国歌谣集成福建卷・福州市鼓楼区分卷](https://github.com/Nang-muoi-sing/foochow-idioms-data/blob/master/中国歌谣集成福建卷・福州市鼓楼区分卷/content.tsv)
 - Publisher: 福州鼓楼区民间文学三集成编委会
 - Editor-in-chief: 邱顺生
 - Sub-editor: 郑郁
@@ -68,12 +80,12 @@ See individual details behind the idioms.
 - Author: 连江县民间文学集成编委会
 
 ### 連江縣志·文化志
-#### [第四篇. 第三章 傳統藝術. 第三節 歌謠](https://github.com/MindongLab/foochow-idioms-data/blob/master/連江縣志·文化志/第四篇.%20第三章%20傳統藝術.%20第三節%20歌謠.tsv)
+#### [第四篇. 第三章 傳統藝術. 第三節 歌謠](https://github.com/Nang-muoi-sing/foochow-idioms-data/blob/master/連江縣志·文化志/第四篇.%20第三章%20傳統藝術.%20第三節%20歌謠.tsv)
 - [Original URL](http://board.matsu.idv.tw/board_view.php?board=141&pid=69806&link=69806&start=14)
 - Archive URL: [archive.org](https://web.archive.org/web/20200213114651/http://board.matsu.idv.tw/board_view.php?board=141&pid=69806&link=69806&start=14), [archive.is](http://archive.ph/wip/VrikW)
 - Digitalization: 山月
 
-### [莒光鄉誌](https://github.com/MindongLab/foochow-idioms-data/blob/master/莒光鄉誌.tsv)
+### [莒光鄉誌](https://github.com/Nang-muoi-sing/foochow-idioms-data/blob/master/莒光鄉誌.tsv)
 - Publisher: 莒光鄉公所
 #### 第四節 民間歌謠
 - [Original URL](http://board.matsu.idv.tw/board_view.php?board=50&pid=23668&link=23668&start=154)
@@ -82,7 +94,7 @@ See individual details behind the idioms.
 
 ## 闽侯
 
-### [闽侯歌谣](https://github.com/MindongLab/foochow-idioms-data/blob/master/闽侯歌谣)
+### [闽侯歌谣](https://github.com/Nang-muoi-sing/foochow-idioms-data/blob/master/闽侯歌谣)
 - Digitalization: 山月
 
 ## 宁德
